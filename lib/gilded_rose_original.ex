@@ -1,4 +1,4 @@
-defmodule GildedRose do
+defmodule GildedRoseOriginal do
   use Agent
   alias GildedRose.Item
 
