@@ -1,3 +1,13 @@
+# Bryan's notes
+
+This was an exercise I did for a company a couple of years ago.
+TL;DR - The assignment was to take some existing code and improvate the quality of it, while ensuring that the behavior stayed exactly the same.
+
+I wrote gilded_rose_test.exs to run each function in gilded_rose_original.ex.  
+
+The tests run successfully after refacting to gilded_rose.ex.
+
+# The original assignment:
 # The Gilded Rose
 
 Hi and welcome to team Gilded Rose.
